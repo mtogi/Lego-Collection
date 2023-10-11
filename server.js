@@ -1,3 +1,19 @@
+/********************************************************************************
+*  WEB322 – Assignment 03
+* 
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: Mustafa Toygar Baykal Student ID: 112398227 Date: October 11, 2023
+*
+*  Published URL: https://rich-cyan-gecko-toga.cyclic.app/
+*
+********************************************************************************/
+
+
+
 
 const legoData = require("./modules/legoSets");
 const express = require('express');
